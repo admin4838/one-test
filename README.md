@@ -18,9 +18,9 @@
     
     ```yml
     on:
-    push:
-        branches:
-        - main
+    #push:
+    #    branches:
+    #    - main
      schedule:
        - cron: "0 0 * * *"
     ```
