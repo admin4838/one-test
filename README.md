@@ -21,8 +21,8 @@
     push:
         branches:
         - main
-    # schedule:
-    #   - cron: "0 0 * * *"
+     schedule:
+       - cron: "0 0 * * *"
     ```
 
     修改为
